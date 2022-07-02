@@ -1,4 +1,4 @@
-from start_2080 import start
+from start_2048 import start
 
 if __name__ == "__main__":
     game = start()
