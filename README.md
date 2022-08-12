@@ -2,4 +2,4 @@
 small math game
 type
 $ python main.py
-To strat the game and enjoy
+To start the game and enjoy
